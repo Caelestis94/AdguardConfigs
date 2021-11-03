@@ -1,0 +1,5 @@
+https://affiliationjs.s3.amazonaws.com
+https://analyticsengine.s3.amazonaws.com
+https://adtago.s3.amazonaws.com
+https://sessions.bugsnag.com
+https://app.getsentry.com
