@@ -5,3 +5,4 @@ https://sessions.bugsnag.com
 https://app.getsentry.com
 https://browser.sentry-cdn.com
 https://api.bugsnag.com
+https://open.oneplus.net
