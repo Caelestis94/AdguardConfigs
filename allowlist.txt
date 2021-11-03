@@ -1,0 +1,5 @@
+aur.archlinux.org
+secure.evga.com
+evga.com
+academy.hackthebox.eu
+hackthebox.eu
