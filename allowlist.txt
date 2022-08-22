@@ -3,3 +3,4 @@ secure.evga.com
 evga.com
 academy.hackthebox.eu
 hackthebox.eu
+koushoku.org
